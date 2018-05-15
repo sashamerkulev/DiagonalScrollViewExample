@@ -5,4 +5,4 @@ Simple diagonal scroll view
 - It is supports diagonal scrolling and fling gestures.
 
 
-![gif](https://github.com/sashamerkulev/DiagonalScrollViewExample/blob/master/gif.gif)
+![gif](https://github.com/sashamerkulev/DiagonalScrollViewExample/blob/master/gif2.gif)
